@@ -1,0 +1,8 @@
+server:
+  port: PORT
+database:
+  host: "HOST"
+  port: PORT
+  name: "NAME"
+  user: "USER"
+  password: "PASSWORD"
